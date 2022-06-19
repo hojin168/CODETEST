@@ -1,0 +1,8 @@
+D:\REPO\CODETEST\problem\01_IO\02_10718\bin\Debug\02_10718.exe.config
+D:\REPO\CODETEST\problem\01_IO\02_10718\bin\Debug\02_10718.exe
+D:\REPO\CODETEST\problem\01_IO\02_10718\bin\Debug\02_10718.pdb
+D:\REPO\CODETEST\problem\01_IO\02_10718\obj\Debug\02_10718.csproj.AssemblyReference.cache
+D:\REPO\CODETEST\problem\01_IO\02_10718\obj\Debug\02_10718.csproj.SuggestedBindingRedirects.cache
+D:\REPO\CODETEST\problem\01_IO\02_10718\obj\Debug\02_10718.csproj.CoreCompileInputs.cache
+D:\REPO\CODETEST\problem\01_IO\02_10718\obj\Debug\02_10718.exe
+D:\REPO\CODETEST\problem\01_IO\02_10718\obj\Debug\02_10718.pdb

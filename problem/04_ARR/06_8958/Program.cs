@@ -12,22 +12,24 @@ namespace _06_8958
         {
             int caseNum = int.Parse(Console.ReadLine());
 
-            int count = 0;
-
+            
+            string input;
+            string[] OX;
+            int num = 0;
+            int sum = 0;
 
             for (int i = 0; i < caseNum; i++)
             {
-                string input = Console.ReadLine();
-                string [] OX = input.Split();
-
-                for(int j = 0; j < OX.Length; j++)
+                input = Console.ReadLine();
+                OX = input.Split('X');
+                sum = 0;
+                for (int j = 0; j < OX.Length; j++)
                 {
-                    if (OX[j] == "O")
-                    {
-                        count += 1;
-                    }
+                    num = (OX[j].Length)*(OX[j].Length+1)/2;
+                    sum += num;
                 }
 
+                Console.WriteLine(sum);
             }
         }
     }

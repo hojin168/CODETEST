@@ -42,7 +42,7 @@ namespace _07_4344
                 float result = ((count / (L - 1)) * 100);
                 double result2 = Math.Round(result, 3);
                 string result3 = result2.ToString();
-                string str = string.Format("{0:0.000} ", double.Parse(result3));
+                string str = string.Format("{0:0.000}", double.Parse(result3));
                 Console.WriteLine(str + "%");
 
             }

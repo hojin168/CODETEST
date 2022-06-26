@@ -1,0 +1,8 @@
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\obj\Debug\03_1065.csproj.AssemblyReference.cache
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\obj\Debug\03_1065.csproj.SuggestedBindingRedirects.cache
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\obj\Debug\03_1065.csproj.CoreCompileInputs.cache
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\bin\Debug\03_1065.exe.config
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\bin\Debug\03_1065.exe
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\bin\Debug\03_1065.pdb
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\obj\Debug\03_1065.exe
+D:\REPO\CODETEST\problem\05_FUNC\03_1065\obj\Debug\03_1065.pdb

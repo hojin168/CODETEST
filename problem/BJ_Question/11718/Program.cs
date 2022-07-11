@@ -4,20 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10872
+namespace _11718
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int N = int.Parse(Console.ReadLine());
-            int result = 1;
-            for(int i = 0; i < N; i++)
+
+            while (true)
             {
-                result *= (N - i);
+                string input = Console.ReadLine();
+                if (input == null) break;
+                Console.WriteLine(input);
             }
 
-            Console.WriteLine(result);
         }
     }
 }
